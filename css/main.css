@@ -1,0 +1,36 @@
+.basicinfo{
+	background-color: purple;
+
+}
+
+.age{
+	background-color: yellow;
+
+}
+
+.hobbies{
+	background-image: url(http://bgfons.com/upload/stars_texture2917.jpg);
+	width:100%;
+
+}
+
+h1 {
+	color:white;
+}
+
+h2 {
+	color:green;
+}
+
+h3{
+	color:white;
+}
+
+#age p{
+	color:green;
+}
+
+#hobbies p {
+	color:white;
+	font-weight: bold;
+}
