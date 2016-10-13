@@ -1,4 +1,25 @@
 
+title {
+	font-size: 26px;
+}
+
+nav {
+	text-align: center;
+	font-family: 'Luckiest Guy', cursive;
+}
+
+nav li {
+	display:inline;
+	border-color: purple;
+	border-style: solid;
+	padding: 2px;
+	border-radius: 5px;
+	margin: 10px;
+
+
+}
+
+
 body {
 
 	font-family: 'Kalam', cursive;
@@ -13,6 +34,7 @@ header {
 	font-size:56px;
 	color: white;
 	background-size: 720px;
+	background-attachment: fixed;
 	
 	}
 
@@ -43,6 +65,7 @@ h1 {
 
 h2 {
 	color:green;
+	font-size: 16px;
 }
 
 h3{
